@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/6/13 16:45:11。
+     1>项目“C:\Users\Administrator\Documents\Visual Studio 2012\Projects\无人机定位系统\ranging\binocularMeasureDS\binocularMeasureDS\binocularMeasureDS.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         H:\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt binocularMeasureDS.cpp
+         binocularMeasureDS.cpp
+     1>c:\users\administrator\documents\visual studio 2012\projects\directshow\include\uuids.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         H:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Visual Studio 2012\Projects\无人机定位系统\ranging\binocularMeasureDS\Debug\binocularMeasureDS.exe" /INCREMENTAL /NOLOGO opencv_calib3d2413d.lib opencv_contrib2413d.lib opencv_core2413d.lib opencv_features2d2413d.lib opencv_flann2413d.lib opencv_gpu2413d.lib opencv_highgui2413d.lib opencv_imgproc2413d.lib opencv_legacy2413d.lib opencv_ml2413d.lib opencv_nonfree2413d.lib opencv_objdetect2413d.lib opencv_ocl2413d.lib opencv_photo2413d.lib opencv_stitching2413d.lib opencv_superres2413d.lib opencv_ts2413d.lib opencv_video2413d.lib opencv_videostab2413d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Documents\Visual Studio 2012\Projects\无人机定位系统\ranging\binocularMeasureDS\Debug\binocularMeasureDS.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\Visual Studio 2012\Projects\无人机定位系统\ranging\binocularMeasureDS\Debug\binocularMeasureDS.lib" /MACHINE:X86 Debug\binocularMeasureDS.obj
+         Debug\CameraDS.obj
+         binocularMeasureDS.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2012\Projects\无人机定位系统\ranging\binocularMeasureDS\Debug\binocularMeasureDS.exe
+     1>已完成生成项目“C:\Users\Administrator\Documents\Visual Studio 2012\Projects\无人机定位系统\ranging\binocularMeasureDS\binocularMeasureDS\binocularMeasureDS.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.68
